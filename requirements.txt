@@ -1,0 +1,4 @@
+hepdata-lib @ git+https://github.com/HEPData/hepdata_lib
+hepdata-validator @ git+https://github.com/HEPData/hepdata-validator
+pytest==6.2.2
+wget==3.2
