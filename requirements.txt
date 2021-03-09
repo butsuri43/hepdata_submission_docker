@@ -2,3 +2,5 @@ hepdata-lib @ git+https://github.com/HEPData/hepdata_lib
 hepdata-validator @ git+https://github.com/HEPData/hepdata-validator
 pytest==6.2.2
 wget==3.2
+pyhf==0.6.0
+pyyaml==5.3.1

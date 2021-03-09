@@ -1,0 +1,5 @@
+python3-pip
+git
+imagemagick
+ghostscript
+xmlstarlet
