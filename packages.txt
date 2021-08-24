@@ -3,3 +3,4 @@ git
 imagemagick
 ghostscript
 xmlstarlet
+unzip
