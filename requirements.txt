@@ -1,6 +1,6 @@
-hepdata-lib
-hepdata-validator
-pytest
+hepdata-lib==0.8.1
+hepdata-validator==0.2.3
+pytest==6.2.4
 wget==3.2
 pyhf==0.6.0
-pyyaml
+pyyaml==5.4.1
